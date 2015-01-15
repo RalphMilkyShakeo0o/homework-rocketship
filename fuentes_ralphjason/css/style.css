@@ -1,0 +1,9 @@
+/*Put the canvas to the center and add a border */
+canvas {
+  margin: 0 auto;
+  border: 1px solid #333;
+}
+h1{
+font-family: "Lato", sans-serif;
+font-style: "Bold";
+}
